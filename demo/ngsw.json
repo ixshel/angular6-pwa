@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "/demo/index.html",
+  "index": "http://ixshel.me/angular6-pwa/demo/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/demo/favicon.ico",
-        "/demo/index.html",
-        "/demo/main.c1c276d439e40fc416f0.js",
-        "/demo/polyfills.cf535d2993b5def59ab4.js",
-        "/demo/runtime.6afe30102d8fe7337431.js",
-        "/demo/styles.7eb5b416419a5572920a.css"
+        "http://ixshel.me/angular6-pwa/demo/favicon.ico",
+        "http://ixshel.me/angular6-pwa/demo/index.html",
+        "http://ixshel.me/angular6-pwa/demo/main.c1c276d439e40fc416f0.js",
+        "http://ixshel.me/angular6-pwa/demo/polyfills.cf535d2993b5def59ab4.js",
+        "http://ixshel.me/angular6-pwa/demo/runtime.6afe30102d8fe7337431.js",
+        "http://ixshel.me/angular6-pwa/demo/styles.7eb5b416419a5572920a.css"
       ],
       "patterns": []
     },
@@ -21,34 +21,34 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/demo/assets/icons/icon-128x128.png",
-        "/demo/assets/icons/icon-144x144.png",
-        "/demo/assets/icons/icon-152x152.png",
-        "/demo/assets/icons/icon-192x192.png",
-        "/demo/assets/icons/icon-384x384.png",
-        "/demo/assets/icons/icon-512x512.png",
-        "/demo/assets/icons/icon-72x72.png",
-        "/demo/assets/icons/icon-96x96.png"
+        "http://ixshel.me/angular6-pwa/demo/assets/icons/icon-128x128.png",
+        "http://ixshel.me/angular6-pwa/demo/assets/icons/icon-144x144.png",
+        "http://ixshel.me/angular6-pwa/demo/assets/icons/icon-152x152.png",
+        "http://ixshel.me/angular6-pwa/demo/assets/icons/icon-192x192.png",
+        "http://ixshel.me/angular6-pwa/demo/assets/icons/icon-384x384.png",
+        "http://ixshel.me/angular6-pwa/demo/assets/icons/icon-512x512.png",
+        "http://ixshel.me/angular6-pwa/demo/assets/icons/icon-72x72.png",
+        "http://ixshel.me/angular6-pwa/demo/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/demo/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/demo/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/demo/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/demo/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/demo/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/demo/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/demo/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/demo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/demo/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/demo/index.html": "69df455d1f97b9167aafbabfd117cc7355575c4f",
-    "/demo/main.c1c276d439e40fc416f0.js": "0392ff18aefac9bec5f4fa5877b6dae5da722ed1",
-    "/demo/polyfills.cf535d2993b5def59ab4.js": "b7e2a904d991459f495b427233e93871eeb45c6b",
-    "/demo/runtime.6afe30102d8fe7337431.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
-    "/demo/styles.7eb5b416419a5572920a.css": "6f155cce1532a77eccb48e0462bad631a97a15e6"
+    "http://ixshel.me/angular6-pwa/demo/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "http://ixshel.me/angular6-pwa/demo/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "http://ixshel.me/angular6-pwa/demo/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "http://ixshel.me/angular6-pwa/demo/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "http://ixshel.me/angular6-pwa/demo/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "http://ixshel.me/angular6-pwa/demo/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "http://ixshel.me/angular6-pwa/demo/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "http://ixshel.me/angular6-pwa/demo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "http://ixshel.me/angular6-pwa/demo/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "http://ixshel.me/angular6-pwa/demo/index.html": "c59b51ca2bf76ea21c6f81093d32327024506069",
+    "http://ixshel.me/angular6-pwa/demo/main.c1c276d439e40fc416f0.js": "0392ff18aefac9bec5f4fa5877b6dae5da722ed1",
+    "http://ixshel.me/angular6-pwa/demo/polyfills.cf535d2993b5def59ab4.js": "b7e2a904d991459f495b427233e93871eeb45c6b",
+    "http://ixshel.me/angular6-pwa/demo/runtime.6afe30102d8fe7337431.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
+    "http://ixshel.me/angular6-pwa/demo/styles.7eb5b416419a5572920a.css": "6f155cce1532a77eccb48e0462bad631a97a15e6"
   },
   "navigationUrls": [
     {
